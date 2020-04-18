@@ -1,4 +1,4 @@
-#
+# Auto Focus Vuforia
 
 Auto-focus Script for ARCamera in Vuforia SDK
 
