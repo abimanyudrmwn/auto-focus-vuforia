@@ -1,6 +1,6 @@
-# Auto Focus Vuforia
+# Auto Focus Vuforia Unity Game Engine
 
-Auto-focus Script for ARCamera in Vuforia SDK
+Auto-focus Script for ARCamera in Vuforia SDK + Unity Game Engine
 
 ### How to Use?
 
