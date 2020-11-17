@@ -7,10 +7,11 @@ Auto-focus Script for ARCamera in Vuforia SDK
 - First, you can download or copy-paste the code to your project
 - Then you can add CameraFocusController.cs to ARCamera Object
 
-// code from  Vuforia Developer Library
- // https://library.vuforia.com/articles/Solution/Camera-Focus-Modes
- void Start() {    
+### Sneakpeek
+```csharp
+void Start() {    
   var vuforia = VuforiaARController.Instance;    
   vuforia.RegisterVuforiaStartedCallback(OnVuforiaStarted);    
   vuforia.RegisterOnPauseCallback(OnPaused);
  }  
+```
